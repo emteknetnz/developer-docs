@@ -2,7 +2,7 @@
 title: 5.2.0-beta1
 ---
 
-# 5.2.0-beta1-test
+# 5.2.0-beta1
 
 ## Overview
 
@@ -688,7 +688,7 @@ This release includes a number of bug fixes to improve a broad range of areas. C
 - dnadesign/silverstripe-elemental (5.1.0 -&gt; 5.2.0-beta1)
   - 2024-01-29 [7351e65](https://github.com/silverstripe/silverstripe-elemental/commit/7351e65ecb8b08702c05056a2a2190d83ffcd78d) Versioned badge to elements (Sabina Talipova)
   - 2024-01-22 [b25ed5f](https://github.com/silverstripe/silverstripe-elemental/commit/b25ed5f761b514b38418287993ce49d506ddb1af) Add generic types (#1131) (Guy Sartorelli)
-  - 2024-01-19 [bf8d867](https://github.com/silverstripe/silverstripe-elemental/commit/bf8d867ede2cd6d2ad14b37d02140c6b85c653f7) BaseElement::getType() use static::class instead of __CLASS__ for better defaults (Christopher Darling)
+  - 2024-01-19 [bf8d867](https://github.com/silverstripe/silverstripe-elemental/commit/bf8d867ede2cd6d2ad14b37d02140c6b85c653f7) BaseElement::getType() use static::class instead of `__CLASS__` for better defaults (Christopher Darling)
 
 - silverstripe/auditor (3.0.0 -&gt; 3.1.0-beta1)
   - 2024-01-18 [8c847f5](https://github.com/silverstripe/silverstripe-auditor/commit/8c847f59c6381a1f8cee5584c71f58aaf9db740e) Add generic types (#67) (Guy Sartorelli)
